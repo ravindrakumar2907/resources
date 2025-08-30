@@ -1,0 +1,20 @@
+
+Main Website:
+https://modelcontextprotocol.io/
+
+How to Use Remote MCP Servers.
+https://modelcontextprotocol.io/docs/tutorials/use-remote-mcp-server
+
+Details Explanation of MCP Server.
+https://medium.com/@elisowski/mcp-explained-the-new-standard-connecting-ai-to-everything-79c5a1c98288
+
+
+MCP Server Repository:
+https://mcp.so/
+
+
+################ Chat Bots Creation #################
+https://java2ai.com/en/docs/1.0.0.2/practices/mcp/spring-ai-mcp-starter-client/
+
+https://www.baeldung.com/spring-ai-model-context-protocol-mcp
+

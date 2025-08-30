@@ -1,0 +1,21 @@
+/etc/apt/keyrings/
+
+
+http://34.58.227.221:8080/
+
+
+sudo docker run -it -p 82:80 -d devopsdemo
+7e47ff13eb8d398b24c713391d545ba9870f2b720e8db8466591b22729419dfb
+
+
+
+kubeadm init --apiserver-advertise-address=10.128.0.7 --pod-network-cidr=192.168.0.0/16 --ignore-preflight-errors=NumCPU --kubernetes-version 1.28.1
+
+
+10.128.0.7
+
+kubeadm join 10.128.0.7:6443 --token 5duyyo.voyja4nz5he8uwj1 \
+        --discovery-token-ca-cert-hash sha256:f1d80390f758e1d0de46a435ca6ba516ae1959b43bf66339517d9e3fff4bf896
+		
+		
+		<p><a href="https://www.thecloudtrain.com?wvideo=lp3f6bio72"><img src="https://embed-ssl.wistia.com/deliveries/21d49529fc91c9f70ee36ea5554a4ac6113fb26e.jpg?image_play_button_size=2x&image_crop_resized=960x540&image_play_button_rounded=1&image_play_button_color=2949E5e0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://www.thecloudtrain.com?wvideo=lp3f6bio72">Kubernetes</a></p>
