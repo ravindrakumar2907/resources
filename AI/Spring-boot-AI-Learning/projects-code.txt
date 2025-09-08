@@ -1,0 +1,13 @@
+
+Spring AI working code:
+
+Video: https://www.youtube.com/watch?v=NL7bqlTHjtE
+
+https://vaadin.com/hilla
+
+https://github.com/marcushellberg/java-ai-playground
+
+https://github.com/langchain4j/langchain4j
+
+Video:https://www.youtube.com/watch?v=x8kkjmCZTaw
+https://github.com/jdubois/jdubois-langchain4j-demo
