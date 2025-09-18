@@ -1,0 +1,14 @@
+# Ignore all files that start with a dot
+
+# Ignore editor and IDE configuration files
+.vscode/
+.idea/
+
+# Ignore environment variables and other secret files
+.env
+
+# Ignore temporary and cache files
+.DS_Store
+*.swp
+*.tmp
+*.DS_Store
